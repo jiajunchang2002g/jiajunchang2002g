@@ -1,5 +1,5 @@
 # 👋 Welcome to my GitHub page:
-I'm Jia Jun, a passionate CS undergrad at NUS. I love building things and exploring data! I am passionate about data analytics and data science.
+I'm Jia Jun, a passionate CS undergrad at NUS. I love building things and exploring data! I am passionate about AI, Data Science and Low-latency Systems!
 
 
 # 💻 Tech Stack:
